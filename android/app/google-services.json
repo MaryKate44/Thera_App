@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685873349714",
+    "project_id": "therapp-1ee4c",
+    "storage_bucket": "therapp-1ee4c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685873349714:android:47a449269cfbfb90958b8b",
+        "android_client_info": {
+          "package_name": "com.example.thera_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmQO2MG5hmDChhP-P3gMma0j0Zws3zwks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
